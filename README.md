@@ -9,7 +9,6 @@ A simple full-stack web application for managing books. This application provide
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Usage](#usage)
 - [API Endpoints](#api-endpoints)
   
 
