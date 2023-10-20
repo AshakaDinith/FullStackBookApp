@@ -61,4 +61,8 @@ A simple full-stack web application for managing books. This application provide
 4. Access the application in your web browser at http://localhost:5173.
    
 
+## API Endpoints
 
+- GET /books: Retrieve a list of all books.
+- POST /books/newbook: Add a new book.
+- DELETE /books/:isbn: Delete a book by ISBN.
