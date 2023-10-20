@@ -11,9 +11,7 @@ A simple full-stack web application for managing books. This application provide
 - [Setup](#setup)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [UI/UX and Styling](#uiux-and-styling)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Features
 
@@ -43,4 +41,19 @@ A simple full-stack web application for managing books. This application provide
 
    ```shell
    git clone https://github.com/AshakaDinith/FullStackBookApp.git
+
+2. Install dependencies for the backend:
+    ```shell
+   cd FullStackBookApp/backend
+   npm start
+
+3. Start the frontend development server:
+
+    ```shell
+    cd FullStackBookApp/frontend
+    npm start
+
+4. Access the application in your web browser at http://localhost:5173.
+   
+
 
