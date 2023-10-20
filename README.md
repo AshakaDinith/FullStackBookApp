@@ -2,7 +2,7 @@
 
 A simple full-stack web application for managing books. This application provides both a backend (Node.js) and a frontend (React) to create, list, and delete books. Users can interact with a MongoDB database to store book information, including title, author, and ISBN.
 
-![App Preview](https://github.com/AshakaDinith/FullStackBookApp/blob/main/frontend/public/app-screenshot.png)
+
 
 ## Table of Contents
 
