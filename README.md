@@ -47,18 +47,22 @@ A simple full-stack web application for managing books. This application provide
    cd FullStackBookApp/backend
    npm install
    npm i cors express mongoose nodemon
+3. Start the backend server:
+   ```shell
    npm run dev
 
-3. Start the frontend development server:
-
+4. Install dependencies for the frontend:
     ```shell
     cd FullStackBookApp/frontend
     npm install
     npm i axios react react-router-dom
+    
+5. Start the frontend server:
+    ```shell
     npm run dev
     
 
-4. Access the application in your web browser at http://localhost:5173.
+6. Access the application in your web browser at http://localhost:5173.
    
 
 ## API Endpoints
